@@ -3,13 +3,13 @@
 This is `vim` plugin that allows you to move your code using following shortcuts:
 
 ## Up and down
- - <key>alt</key><key>↓</key>
- - <key>alt</key><key>j</key>
- - <key>alt</key><key>↑</key>
- - <key>alt</key><key>k</key>
+ - <kbd>alt</kbd><kbd>↓</kbd>
+ - <kbd>alt</kbd><kbd>j</kbd>
+ - <kbd>alt</kbd><kbd>↑</kbd>
+ - <kbd>alt</kbd><kbd>k</kbd>
 
 ## Left and right
- - <key>alt</key><key>←</key>
- - <key>alt</key><key>h</key>
- - <key>alt</key><key>→</key>
- - <key>alt</key><key>l</key>
+ - <kbd>alt</kbd><kbd>←</kbd>
+ - <kbd>alt</kbd><kbd>h</kbd>
+ - <kbd>alt</kbd><kbd>→</kbd>
+ - <kbd>alt</kbd><kbd>l</kbd>
