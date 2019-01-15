@@ -13,3 +13,11 @@ This is `vim` plugin that allows you to move your code using following shortcuts
  - <kbd>Alt</kbd> <kbd>h</kbd>
  - <kbd>Alt</kbd> <kbd>🠚</kbd>
  - <kbd>Alt</kbd> <kbd>l</kbd>
+
+## Installation
+
+With [vim-plug](https://github.com/junegunn/vim-plug):
+
+```vimscript
+Plug 'gko/upside-down'
+```
