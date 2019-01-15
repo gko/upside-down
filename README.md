@@ -22,6 +22,8 @@ With [vim-plug](https://github.com/junegunn/vim-plug):
 Plug 'gko/upside-down'
 ```
 
+in your [.vimrc](https://github.com/gko/vimio/blob/master/init.vim)
+
 ## Like it?
 
 :star: this repo
