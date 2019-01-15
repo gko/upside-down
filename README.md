@@ -21,3 +21,7 @@ With [vim-plug](https://github.com/junegunn/vim-plug):
 ```vimscript
 Plug 'gko/upside-down'
 ```
+
+## Like it?
+
+:star: this repo
