@@ -26,6 +26,14 @@ Plug 'gko/upside-down'
 
 in your [.vimrc](https://github.com/gko/vimio/blob/master/init.vim)
 
+### macOS
+
+In macOS don't forget to check the «Use option as meta key»:
+
+![terminal](https://raw.githubusercontent.com/gko/upside-down/master/terminal.png)
+
+![iterm2](https://raw.githubusercontent.com/gko/upside-down/master/iterm2.png)
+
 ## Like it?
 
 :star: this repo
