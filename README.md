@@ -1,5 +1,7 @@
 # Upside-down
-[!preview](https://raw.githubusercontent.com/gko/upside-down/master/move.mov)
+
+![preview](https://raw.githubusercontent.com/gko/upside-down/master/move.mov)
+
 This is `vim` plugin that allows you to move your code using following shortcuts:
 
 ## Up and down
