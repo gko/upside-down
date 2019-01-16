@@ -32,6 +32,8 @@ In macOS don't forget to check the «Use option as meta key»:
 
 ![terminal](https://raw.githubusercontent.com/gko/upside-down/master/terminal.png)
 
+And «Esc+» option in iterm2: 
+
 ![iterm2](https://raw.githubusercontent.com/gko/upside-down/master/iterm2.png)
 
 ## Like it?
