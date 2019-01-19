@@ -1,6 +1,6 @@
 # Upside-down
 
-[![asciicast](https://asciinema.org/a/ys4OOtqzmwi0tlIrsIMFH3WuC.svg)](https://asciinema.org/a/ys4OOtqzmwi0tlIrsIMFH3WuC)
+![preview](https://raw.githubusercontent.com/gko/upside-down/master/preview.mp4)
 
 This is `vim` plugin that allows you to move your code using following shortcuts:
 
